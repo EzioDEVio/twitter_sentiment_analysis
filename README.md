@@ -1,6 +1,8 @@
 # Twitter Sentiment Analysis Project
 
-This project collects tweets, preprocesses them, and performs sentiment analysis to classify tweets as positive, negative, or neutral. The project uses the Twitter API for data collection and `TextBlob` for sentiment analysis.
+This project collects tweets from X app, preprocesses them, and performs sentiment analysis to classify tweets as positive, negative, or neutral. The project uses the Twitter API for data collection and `TextBlob` for sentiment analysis.
+
+Im using x app Developer account for API access which you can sign up for free, but limited rate since it is free.
 
 ## Table of Contents
 - [Twitter Sentiment Analysis Project](#twitter-sentiment-analysis-project)
