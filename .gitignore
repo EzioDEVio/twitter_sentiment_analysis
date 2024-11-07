@@ -1,0 +1,24 @@
+# Ignore environment configuration
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files (optional, especially if they contain sensitive information)
+data/*.csv
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore logs
+logs/
+*.log
